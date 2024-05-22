@@ -169,4 +169,4 @@ dependencies:
     - torchvision==0.14.0
     - trimesh==4.1.8
     - wandb==0.16.6
-prefix: C:\Users\Anushrut\.conda\envs\npull
+
